@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_data_array_xml">
+        <item>Vivek</item>
+        <item>Sumit</item>
+        <item>Paras</item>
+        <item>Vikas</item>
+    </string-array>
+</resources>
